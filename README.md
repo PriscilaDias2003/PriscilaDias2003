@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+<h1>Olá, meu nome é Priscila, bem vindo(a) ao meu GitHub</h1>
 
 <h3>Sobre mim</h3>
 
@@ -46,6 +46,6 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-gabrielle-dias-b9288a213/)](https://www.linkedin.com/in/priscila-gabrielle-dias-b9288a213/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priscilagabrielle.ti@gmail.com)](mailto:pricilagabrielle.ti@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/PriscilaDias2003)
+[![Linkedin](https://img.shields.io/badge/-PriscilaDias2003-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-gabrielle-dias-b9288a213/)](https://www.linkedin.com/in/priscila-gabrielle-dias-b9288a213/)
+[![Gmail Badge](https://img.shields.io/badge/priscilagabrielle.ti@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priscilagabrielle.ti@gmail.com)](mailto:pricilagabrielle.ti@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/PriscilaDias2003?label=follow&style=social)](https://github.com/PriscilaDias2003)
