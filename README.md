@@ -3,7 +3,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Desenvolvimento de Software Multiplataforma na <a href="https://www.fateczl.edu.br/inicio">FATEC Zona Leste</a>.
+- 🎓 Formada em Desenvolvimento de Software Multiplataforma na <a href="https://www.fateczl.edu.br/inicio">FATEC Zona Leste</a>.
 - 🌱 &nbsp; Aprendendo mais sobre Android Studio, Spring Boot e C++.
 - 📖 Sou apaixonada por estudos, leituras, desenhar e música - atividades que me ajudam a manter minha mente aberta e criativa.
 
